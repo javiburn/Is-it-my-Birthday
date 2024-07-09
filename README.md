@@ -19,4 +19,5 @@ This project is a simple Django web application inspired by [isitchristmas.com](
 2. Run the Development Server
 Start the Django development server:
 
-```python manage.py runserver
+```
+python manage.py runserver
