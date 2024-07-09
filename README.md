@@ -32,4 +32,4 @@ BIRTHDAY = (7, 15)  # Example: July 15
 Start the Django development server:
 
 ```
-python manage.py runserver
+python birthday/manage.py runserver
